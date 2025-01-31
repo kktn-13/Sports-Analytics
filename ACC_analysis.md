@@ -4,11 +4,13 @@
 
 ## 🛠 Technologies Used
 - R
-- 
-
+- Git
 
 ## 📂 Data Sources
-- GameStats.csv(https://github.com/kktn-13/Sports-Analytics/main/GameStats.csv)
+
+This project uses the following dataset:
+
+📄 **[Download the dataset (CSV)](https://github.com/kktn-13/Sports-Analytics/blob/main/GameStats.csv)**  
 
 ## 📊 Example Visualization
 
