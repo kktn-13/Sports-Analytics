@@ -1,5 +1,10 @@
-## 📊 My Project
-- [ACC Analysis](https://github.com/kktn-13/Sports-Analytics/blob/main/ACC_analysis.md)
+## 🛠 Project Goals
+- Create a system that gives real-time stats and personalized training tips
+- Analyze past stats and use it for the future strategy
+
+## 🚀 My Project
+- [ACC Analysis(Jan, 2025)](https://github.com/kktn-13/Sports-Analytics/blob/main/ACC_analysis.md)
+
 
 
 ## 📊 Example Visualization
