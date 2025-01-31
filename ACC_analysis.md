@@ -4,11 +4,11 @@
 
 ## 🛠 Technologies Used
 - R
-- Git[Uploading GameStats.csv…]()
+- 
 
 
 ## 📂 Data Sources
-- 
+- GameStats.csv(https://github.com/kktn-13/Sports-Analytics/main/GameStats.csv)
 
 ## 📊 Example Visualization
 
